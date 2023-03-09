@@ -1,0 +1,2 @@
+"use strict";(self["webpackChunkbilling"]=self["webpackChunkbilling"]||[]).push([[486],{8401:function(t,e,n){n.r(e),n.d(e,{default:function(){return o}});var a=n(3396),s=n(4449),i=n(4870),u=(0,a.aZ)({__name:"Information",setup(t){const e=(0,i.qj)([{name:"details",text:"明细",iconName:"details"},{name:"statistics",text:"统计",iconName:"details"}]);return(t,n)=>{const i=(0,a.up)("router-view");return(0,a.wg)(),(0,a.j4)(s.Z,{routes:e},{default:(0,a.w5)((()=>[(0,a.Wm)(i)])),_:1},8,["routes"])}}});const r=u;var o=r}}]);
+//# sourceMappingURL=information.ac332074.js.map
